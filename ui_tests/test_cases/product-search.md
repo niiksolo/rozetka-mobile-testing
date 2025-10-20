@@ -16,7 +16,7 @@
 1. Enter **“PlayStation 5”** into the search bar.  
 2. Press **Enter** on the virtual keyboard.  
    <img src="../screenshots/6.png" width="300"/>   
-3. 
+
 ## Expected Result  
 - The search results page loads successfully.  
 - Products displayed correspond to the entered query (**“PlayStation 5”**).  
