@@ -8,39 +8,39 @@ Screenshots were taken on BrowserStack on popular mobile devices. Checked correc
 ## Devices and Screenshots
 
 **Samsung Galaxy A51** — 1080 × 2400  
-![A51](screenshots/a51_main.png)
+<img src="screenshots/a51_main.png" width="300"/>
 
 **Samsung Galaxy S22** — 1080 × 2340  
-![S22](screenshots/edge_s22.png)
+<img src="screenshots/edge_s22.png" width="300"/>
 
 **iPad 9** — 1620 × 2160  
-![iPad9](screenshots/ipad9_main.png)
+<img src="screenshots/ipad9_main.png" width="300"/>
 
 **iPhone 14** — 1170 × 2532  
-![iPhone14](screenshots/iphone14safari.png)  
-![iPhone14](screenshots/iphone_14_safari_А.png)
+<img src="screenshots/iphone14safari.png" width="300"/>  
+<img src="screenshots/iphone_14_safari_А.png" width="300"/>
 
 **iPhone 15** — 1179 × 2556  
-![iPhone15](screenshots/iphone15chrome.png)  
-![iPhone15](screenshots/iphone15_chrome_А.png)
+<img src="screenshots/iphone15chrome.png" width="300"/>  
+<img src="screenshots/iphone15_chrome_А.png" width="300"/>
 
 **Redmi Note 11** — 1080 × 2400  
-![RN11](screenshots/redmi_note11_edge.png)  
-![RN11](screenshots/redmi_note11_edge_А.png)
+<img src="screenshots/redmi_note11_edge.png" width="300"/>  
+<img src="screenshots/redmi_note11_edge_А.png" width="300"/>
 
 **Redmi Note 14 Pro** — 1080 × 2400  
-![RN14](screenshots/redmi_note14pro_chrome.png)  
-![RN14](screenshots/redmo_14pro_A.png)
+<img src="screenshots/redmi_note14pro_chrome.png" width="300"/>  
+<img src="screenshots/redmo_14pro_A.png" width="300"/>
 
 **Samsung Galaxy S22+** — 1080 × 2340  
-![S22+](screenshots/s22_plus_mozilla.png)
+<img src="screenshots/s22_plus_mozilla.png" width="300"/>
 
 **Samsung Galaxy S23** — 1080 × 2340  
-![S23](screenshots/s23.png)
+<img src="screenshots/s23.png" width="300"/>
 
 **Samsung Galaxy A52** — 1080 × 2400  
-![A52](screenshots/samsung_browser_a52.png)  
-![A52](screenshots/samsung_browser_a52_A.png)
+<img src="screenshots/samsung_browser_a52.png" width="300"/>  
+<img src="screenshots/samsung_browser_a52_A.png" width="300"/>
 
 ## Comments
 - All page elements are displayed correctly on all devices.  
