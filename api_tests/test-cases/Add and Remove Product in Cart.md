@@ -33,12 +33,12 @@
 1. **UI Add 1 item** – Phone shows 1 product added.  
    <img src="../screenshots/ui_add_1.jpg" width="300"/>  
 2. **API Add 1 item** – Fiddler shows request for adding 1 product.  
-   <img src="../screenshots/api_add_1.png" width="300"/>  
+   <img src="../screenshots/api_add_1.png" width="600"/>  
 3. **UI Quantity 2** – Phone shows 2 products in cart.  
    <img src="../screenshots/ui_quantity_2.jpg" width="300"/>  
 4. **API Quantity 2** – Fiddler shows request with updated quantity.  
-   <img src="../screenshots/api_quantity_2.png" width="300"/>  
+   <img src="../screenshots/api_quantity_2.png" width="600"/>  
 5. **UI Cart cleared** – Phone shows empty cart.  
    <img src="../screenshots/ui_cart_cleared.jpg" width="300"/>  
 6. **API Cart cleared** – Fiddler shows request to clear cart.  
-   <img src="../screenshots/api_cart_cleared.png" width="300"/>  
+   <img src="../screenshots/api_cart_cleared.png" width="600"/>  

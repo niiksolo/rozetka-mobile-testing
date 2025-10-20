@@ -29,4 +29,4 @@
 1. **UI Search Results** – Phone shows products for `Jim Beam`.  
    <img src="../screenshots/3.jpg" width="300"/>  
 2.**API Search Response** – Fiddler shows JSON response with relevant products.  
-   <img src="../screenshots/4.png" width="300"/>  
+   <img src="../screenshots/4.png" width="600"/>  

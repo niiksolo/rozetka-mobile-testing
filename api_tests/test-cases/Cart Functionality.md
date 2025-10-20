@@ -32,8 +32,8 @@
 1. **UI Cart after adding 2 products**  
    <img src="../screenshots/5.jpg" width="300"/>  
 2. **API Request/Response after adding 2 products**  
-   <img src="../screenshots/6.png" width="300"/>  
+   <img src="../screenshots/6.png" width="600"/>  
 3. **UI Cart after removing 1 product**  
    <img src="../screenshots/7.jpg" width="300"/>  
 4. **API Request/Response after removing 1 product**  
-   <img src="../screenshots/8.png" width="300"/>  
+   <img src="../screenshots/8.png" width="600"/>  

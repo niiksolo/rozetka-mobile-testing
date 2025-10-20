@@ -32,6 +32,6 @@
 - **UI:** Product `Royal Salute 51 year` is visible on the phone screen.  
 <img src="../screenshots/1.jpg" width="300"/>  
 - **API:** JSON response contains the correct product with the proper request parameters and price.  
-<img src="../screenshots/2.png" width="3000"/>
+<img src="../screenshots/2.png" width="600"/>
 
 
