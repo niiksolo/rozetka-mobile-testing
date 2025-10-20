@@ -14,7 +14,7 @@ Verify that the Rozetka mobile website displays and functions correctly across v
 
 ---
 
-## 2️⃣ Viewport Testing (Adaptive Layout)
+## 2️⃣ Viewport Testing  
 **Purpose:** Verify how Rozetka adapts to different screen sizes and orientations.  
 
 - [ ] Check homepage layout (banner, menu, product cards) on each device.  
